@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+}
+
+.menu {
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
